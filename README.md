@@ -1,9 +1,15 @@
 # BIG-DATA-ANAYSIS
+
 *Company* - CODTECH IT SOLUTIONS
+
 *Name* - MEGHAMA DAS
+
 *Intern ID* - CT12WVOH
+
 *Domain* - DATA ANALYTICS
+
 *Duration* - 12 WEEKS
+
 *Mentor* - NEELA SANTOSH
 
 Big data analysis refers to the process of examining and interpreting large volumes of data to uncover hidden patterns, correlations, and other valuable insights that can drive decision-making. With the rapid growth of data in fields like healthcare, finance, retail, and more, traditional tools like single-node data analysis software struggle to handle such massive datasets efficiently. This is where distributed computing tools like Dask come into play. Dask is an open-source framework that allows for parallel computing and is designed to scale from small datasets that fit into memory on a single machine to large datasets that span across many machines in a cluster. It integrates seamlessly with Python and offers advanced capabilities for handling big data analysis tasks.
