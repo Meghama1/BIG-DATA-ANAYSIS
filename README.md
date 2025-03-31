@@ -23,3 +23,7 @@ The scalability and flexibility of Dask make it particularly well-suited for big
 One of the key features of Dask is its task scheduling system, which allows for dynamic, distributed scheduling of computation tasks. The scheduler ensures that tasks are executed in the most efficient order, with minimal resource contention, and can be configured to run on a variety of environments, from a single machine to a large cloud-based cluster. This flexibility allows users to manage computational resources effectively, optimizing both time and cost.
 
 In conclusion, Dask is a powerful tool for big data analysis, enabling scalable, parallel computation in Python. By providing an intuitive interface for handling large datasets, Dask empowers data scientists to analyze vast amounts of information efficiently. Whether for exploratory data analysis, complex machine learning, or large-scale data processing, Dask is a vital tool in the modern data scientist's toolkit.
+
+#output
+
+![Image](https://github.com/user-attachments/assets/16b59815-7cab-47dd-b0d9-8418c4e17634)
